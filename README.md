@@ -104,17 +104,6 @@ To deploy the app:
 
 2. **Deploy**: 
    https://grocerysave-abu-bakar.netlify.app/ 
----
-
-## Screenshots
-
-### Login Page  
-![Login Page](#)  
-_Description: A clean login page with email and password input._
-
-### Dashboard  
-![Dashboard](#)  
-_Description: Displays categories and lists with options to manage them._
 
 ---
 
